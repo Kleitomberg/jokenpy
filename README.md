@@ -27,7 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Pygame](https://www.pygame.org/docs/ref/draw.html)
 
 ## 🔖 Layout
-Este projeto não teve um grande foco no layout
+Como Este projeto foi feito pensado mais em praticar conceitos recem aprendidos, não teve um grande foco no layout, ele possui 3 Telas, sendo a inciial, a tela jogo e a fim de jogo!
+
+<div display='flex' align="center">
+  <img style="width:300px;" alt="home" title="JokenPy" src="https://github.com/Kleitomberg/jokenpy/blob/master/assets/imagens/home.png" />
+  <img style="width:300px;"  alt="startgame" title="JokenPy" src="https://github.com/Kleitomberg/jokenpy/blob/master/assets/imagens/gameOn.png" />
+  <img style="width:300px;"  alt="endgame" title="JokenPy" src="https://github.com/Kleitomberg/jokenpy/blob/master/assets/imagens/gameEnd.png" />
+</div>
 
 ## 👨‍💻 Como jogar
   Acesse o link... e comece a jogar
